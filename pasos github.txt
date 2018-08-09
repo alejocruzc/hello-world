@@ -1,0 +1,7 @@
+1-clonamos el repositorio del link dejado por el profesor
+2-creamos un nuevo repositorio en nuestro github
+3- creamos un branch llamado el mejor respondiendo a un post indicado
+4- copimos el codigo del texto secuencia, lo simulamos en onlinegdb.com, lo compilamos y copiamos su secuencia resultante del programa
+5- fusionamos los cambios del branch al master
+6- realizamos los pasos y lo subimos al master 
+7 enviamos el link de nuestro repositiorio al correo del profesor.
